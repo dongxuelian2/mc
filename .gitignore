@@ -22,3 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Optional user-provided/extracted asset packs (do not commit copyrighted assets)
+public/assets/blocks/*.png
+public/assets/sounds/
+public/assets/minecraft-extracted.json
+.tmp/
